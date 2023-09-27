@@ -1,7 +1,15 @@
 // Wrap all code that interacts with the DOM in a call to jQuery to ensure that
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
-$(function () {
+$(function () {// Display the current date at the header of the page.
+    $("#currentDay").text(dayjs().format('MMMM D, YYYY'));
+
+    // Save user input to local storage when the save button is clicked.
+    $(".saveBtn").on("click", function() {
+        const hourKey = $(this).parent().attr("id");
+        const eventText = $(this).siblings(".description").val();
+        localStorage.setItem(hourKey, eventText);
+    });
     // TODO: Add a listener for click events on the save button. This code should
     // use the id in the containing time-block as a key to save the user input in
     // local storage. HINT: What does `this` reference in the click listener
