@@ -18,7 +18,8 @@
 -Open index.html in your preferred browser.
 or
 -Click the link below!
-(Put screenshot and link here when available)
+https://fablecain.github.io/isaiah-work-planner/
+![image](https://github.com/Fablecain/isaiah-work-planner/assets/139589280/831162b5-a720-4730-8d7a-e3678d14757b)
 
 ## Usage:
 -Open the application, the current day is displayed at the top.
