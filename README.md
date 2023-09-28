@@ -24,6 +24,9 @@ or
 -Open the application, the current day is displayed at the top.
 -Scroll to see time blocks for standard business hours of 9am-5pm.
 -Time blocks are color-coded.
+-Gray for past hours.
+-Red for the current hour.
+-Green for future hours.
 -Click on a time block to enter an event or task.
 -Click the save button to save the event to local storage.
 -Saved events will persist even when refreshing the page.
