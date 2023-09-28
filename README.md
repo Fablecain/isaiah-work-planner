@@ -7,10 +7,11 @@
 - Building this project deepened my understanding of DOM manipulation using jQuery.
 
 ## Table Of Contents
-- Installation:
-- Usage:
-- Credits:
-- License:
+
+- ## Installation
+- ## Usage
+- ## Credits
+- ## License
 
 ## Installation
 - Clone the repository.
