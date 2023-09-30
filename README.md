@@ -34,7 +34,7 @@ https://fablecain.github.io/isaiah-work-planner/
 - Saved events will persist even when refreshing the page.
 
 ## Credits
-- This is repos starter code was provided by Xandromus
+- This repos starter code was provided by Xandromus
 - This is their repo for the starter code on GitHub! 
 - https://github.com/coding-boot-camp/crispy-octo-meme
 
